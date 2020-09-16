@@ -13,7 +13,7 @@
 [package]
 edition = "2018"
 name = "phase21"
-version = "0.7.0"
+version = "0.8.0"
 authors = ["Sean Bowe <ewillbefull@gmail.com>"]
 description = "Library for performing MPCs for creating zk-SNARK public parameters"
 homepage = "https://github.com/filecoin-project/phase2"
@@ -48,7 +48,7 @@ version = "0.4.7"
 version = "1"
 
 [dependencies.paired]
-version = "0.20.0"
+version = "0.20.1"
 
 [dependencies.rand]
 version = "0.7"
